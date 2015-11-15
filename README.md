@@ -1,4 +1,4 @@
-# developer-humour
+# Developer Humour
 A collection of amusing/funny links
 
 ##[What The Commit](http://whatthecommit.com/) 
